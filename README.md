@@ -1,6 +1,5 @@
-## Hi there 👋
-
 **PinkPineapplee** is a ✨ _special_ ✨ repository because its `README.md` 
+
 
 # Hi there, I'm Vera Adaolisa Orji! 👋
 
@@ -14,7 +13,7 @@ I'm a passionate **Software Developer** with experience in HTML, JavaScript, Rea
 - 🔭 Working on: RPS3
 - 🌍 Languages: JavaScript, Python, Igbo, English.
 - 📫 How to reach me: adaolisavera@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Believe it or not, I dance sometimes.
 
 ## My Skills 🧠
 
@@ -23,6 +22,7 @@ I'm a passionate **Software Developer** with experience in HTML, JavaScript, Rea
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
