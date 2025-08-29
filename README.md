@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**PinkPineapplee/PinkPineapplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PinkPineapplee** is a ✨ _special_ ✨ repository because its `README.md` 
 
 # Hi there, I'm Vera Adaolisa Orji! 👋
 
