@@ -1,4 +1,4 @@
- # Hi I'm Vera Adaolisa Orji! 
+ # Hi, I'm Vera Adaolisa Orji! 
 
 ![Banner Image](https://yt3.googleusercontent.com/OyfUSB2RGgXKydsTBySxQlUr84EImq9uaaqREZFtw3FwdT_mAAysesa3r8WCHyNffcmWkX8geA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
