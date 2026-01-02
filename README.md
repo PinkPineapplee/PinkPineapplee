@@ -11,6 +11,9 @@ I'm a passionate **Software Developer** with experience in HTML, JavaScript, Rea
 - 🌍 Languages: JavaScript, Python, Igbo, English.
 - 📫 How to reach me: adaolisavera@gmail.com
 - ⚡ Fun fact: Believe it or not, I dance sometimes.
+- studying:( https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here,
+https://learngitbranching.js.org/,
+https://www.youtube.com/watch?v=xx4vDZdRWDU)
 
 ## My Skills 
 
