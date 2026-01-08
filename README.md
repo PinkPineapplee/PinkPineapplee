@@ -13,7 +13,8 @@ I'm a passionate **Software Developer** with experience in HTML, JavaScript, Rea
 - ⚡ Fun fact: Believe it or not, I dance sometimes.
 - studying:( https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here,
 https://learngitbranching.js.org/,
-https://www.youtube.com/watch?v=xx4vDZdRWDU)
+https://www.youtube.com/watch?v=xx4vDZdRWDU),
+https://seanprashad.com/leetcode-patterns/
 
 ## My Skills 
 
