@@ -18,6 +18,9 @@ https://seanprashad.com/leetcode-patterns/
 
 ## My Skills 
 
+*Hackathons: [Devpost](https://devpost.com/PinkPineapplee?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav), [Google GDG](https://gdg.community.dev/gdg-san-francisco/), [Nasa-SpaceApps](https://www.spaceappschallenge.org/2025/local-events/), [AngelHack](https://angelhack.com/events/), [MLH](https://www.mlh.com/seasons/2026/events).*
+
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
