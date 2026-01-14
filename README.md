@@ -14,7 +14,8 @@ I'm a passionate **Software Developer** with experience in HTML, JavaScript, Rea
 - studying:( https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here,
 https://learngitbranching.js.org/,
 https://www.youtube.com/watch?v=xx4vDZdRWDU),
-https://seanprashad.com/leetcode-patterns/
+https://seanprashad.com/leetcode-patterns/,
+[Coding interview Prep](https://github.com/junfanz1/Software-Engineer-Coding-Interviews/tree/main)
 
 ## My Skills 
 
