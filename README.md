@@ -6,7 +6,7 @@
 
 I'm a passionate **Software Developer** with experience in HTML, JavaScript, React, and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Python
+- 🌱 Currently learning: Programming...
 - 🔭 Working on: Etch-a-sketch, Calculator.
 - 🌍 Languages: JavaScript, Python, Igbo, English.
 - 📫 How to reach me: adaolisavera@gmail.com
