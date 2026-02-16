@@ -7,7 +7,7 @@
 I'm a passionate **Software Developer** with experience in HTML, JavaScript, React, and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Programming...
-- 🔭 Working on: Admin02dashboard, portfolio website
+- 🔭 Working on: Admin02dashboard, portfolio website, E-commerce store.
 - 🌍 Languages: JavaScript, Python, Igbo, English.
 - 📫 How to reach me: adaolisavera@gmail.com
 - ⚡ Fun fact: Believe it or not, I dance sometimes.
